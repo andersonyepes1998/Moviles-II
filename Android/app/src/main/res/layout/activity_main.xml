@@ -4,16 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="#231414"
     android:orientation="vertical"
     tools:context=".VehiculoActivity">
 
     <TextView
-        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Vehiculo"
-        android:textSize="15dp"
-        android:gravity="center_horizontal"/>
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:text="VEHICULO"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
 
     <TextView
@@ -22,89 +25,96 @@
         android:layout_marginTop="15dp"
         android:gravity="center_horizontal"
         android:text="Placa"
-        android:textSize="15dp"
+        android:textColor="#000000"
+        android:textSize="18sp"
         android:textStyle="bold" />
 
     <EditText
-        android:layout_marginTop="10dp"
-        android:id="@+id/etplaca"
+        android:id="@+id/etcodigo"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:textSize="15dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
         android:hint="p.e. AAA-111"
         android:inputType="textPersonName"
-        android:gravity="center_horizontal"/>
+        android:textSize="15dp" />
 
     <TextView
-        android:layout_marginTop="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Marca"
-        android:textSize="15dp"
+        android:layout_marginTop="15dp"
         android:gravity="center_horizontal"
-        android:textStyle="bold"/>
+        android:text="Marca"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:textStyle="bold" />
 
     <EditText
-        android:layout_marginTop="10dp"
         android:id="@+id/etmarca"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:textSize="15dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
         android:hint="Marca del auto"
         android:inputType="textPersonName"
-        android:gravity="center_horizontal"/>
+        android:textSize="15dp" />
 
     <TextView
-        android:layout_marginTop="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Modelo"
-        android:textSize="15dp"
+        android:layout_marginTop="15dp"
         android:gravity="center_horizontal"
-        android:textStyle="bold"/>
+        android:text="Modelo"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:textStyle="bold" />
 
     <EditText
-        android:layout_marginTop="10dp"
-        android:id="@+id/etmodelo"
+        android:id="@+id/etplaca"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:textSize="15dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
         android:hint="Modelo"
         android:inputType="number"
-        android:gravity="center_horizontal"/>
+        android:textSize="15dp" />
 
     <TextView
-        android:layout_marginTop="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Valor"
-        android:textSize="15dp"
+        android:layout_marginTop="15dp"
         android:gravity="center_horizontal"
-        android:textStyle="bold"/>
+        android:text="Valor"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:textStyle="bold" />
 
     <EditText
-        android:layout_marginTop="10dp"
         android:id="@+id/etvalor"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:textSize="15dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
         android:hint="ingrese el valor"
         android:inputType="number"
-        android:gravity="center_horizontal"/>
+        android:textSize="15dp" />
 
     <CheckBox
         android:id="@+id/cbactivo"
-        android:layout_marginTop="10dp"
         android:layout_width="300dp"
-        android:layout_gravity="center_horizontal"
-        android:checked="false"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:checked="false"
+        android:text="Activo"
+        android:textColor="#000000"
+        android:textColorHint="#000000"
         android:textSize="15dp"
-        android:text="Activo" />
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/btnguardar"
@@ -113,40 +123,46 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
         android:text="Guardar"
-        android:textColor="#FAFBF9"
-        android:textColorLink="#9F1F1F"
-        android:textSize="15dp" />
+        android:textSize="15dp"
+        android:backgroundTint="@color/black"/>
 
     <Button
-        android:layout_marginTop="5dp"
         android:id="@+id/btnconsultar"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
         android:text="Consulatr"
         android:textSize="15dp"
-        android:layout_gravity="center_horizontal"/>
+        android:backgroundTint="@color/black"/>
+
     <Button
-        android:layout_marginTop="5dp"
         android:id="@+id/btnanular"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
         android:text="Anular"
         android:textSize="15dp"
-        android:layout_gravity="center_horizontal"/>
+        android:backgroundTint="@color/black"/>
+
     <Button
-        android:layout_marginTop="5dp"
         android:id="@+id/btncancelar"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
         android:text="Cancelar"
         android:textSize="15dp"
-        android:layout_gravity="center_horizontal"/>
+        android:backgroundTint="@color/black"/>
+
     <Button
-        android:layout_marginTop="5dp"
         android:id="@+id/btnregresar"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
         android:text="Regresar"
         android:textSize="15dp"
-        android:layout_gravity="center_horizontal"/>
+        android:backgroundTint="@color/black"/>
 </LinearLayout>
