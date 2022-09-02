@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ce92b632
+drawable chevrolet_01
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btfactura
+id btnanular
+id btncancelar
+id btnconsultar
+id btnguardar
+id btnregresar
+id btvehiculo
+id cbactivo
+id etcbactivo
+id etcodigo
+id etmarca
+id etmodelo
+id etplaca
+id etvalor
+layout activity_factura
+layout activity_main
+layout activity_vehiculo
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Ventas_Vehiculos
