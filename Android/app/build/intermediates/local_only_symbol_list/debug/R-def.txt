@@ -7,8 +7,8 @@ color purple_700
 color teal_200
 color teal_700
 color white
-drawable ce92b632
-drawable chevrolet_01
+drawable ic_kia_motors_1
+drawable ic_kia_motors_1_01
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id btfactura
@@ -25,6 +25,9 @@ id etmarca
 id etmodelo
 id etplaca
 id etvalor
+id imageView
+id imageView5
+id textView
 layout activity_factura
 layout activity_main
 layout activity_vehiculo

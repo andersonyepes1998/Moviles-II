@@ -3,30 +3,78 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:orientation="vertical"
     android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/btvehiculo"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="250dp"
-        android:backgroundTint="#000000"
-        android:onClick="Vehiculo"
-        android:text="Vehiculo"
-        android:textSize="30dp" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-    <Button
-        android:id="@+id/btfactura"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="50dp"
-        android:backgroundTint="#000000"
-        android:onClick="Factura"
-        android:text="Factura"
-        android:textSize="30dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="183dp"
+                android:layout_marginTop="50dp"
+                app:srcCompat="@drawable/ic_kia_motors_1" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="100dp"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btvehiculo"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="60dp"
+                    android:backgroundTint="#191919"
+                    android:onClick="Vehiculo"
+                    android:text="Vehiculo"
+                    android:textSize="30dp"
+                    app:cornerRadius="20dp"
+                    app:shapeAppearance="@style/CardView"
+                    app:strokeColor="#FF0000"
+                    app:strokeWidth="1dp" />
+
+                <Button
+                    android:id="@+id/btfactura"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginBottom="100dp"
+                    android:backgroundTint="#191919"
+                    android:onClick="Factura"
+                    android:text="Factura"
+                    android:textSize="30dp"
+                    app:cornerRadius="20dp"
+                    app:strokeColor="#FF0000"
+                    app:strokeWidth="1dp" />
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:text="© 2022 KIA IBERIA, S.L.U. - TODOS LOS DERECHOS RESERVADOS. "
+                    android:textAlignment="center"
+                    android:textColor="#FF0000"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
 </LinearLayout>
 
