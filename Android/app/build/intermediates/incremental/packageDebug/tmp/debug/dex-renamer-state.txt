@@ -1,4 +1,4 @@
-#Sun Sep 04 12:12:12 COT 2022
+#Wed Sep 14 13:58:11 COT 2022
 base.2=D\:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
 path.2=3/classes.dex
 base.1=D\:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

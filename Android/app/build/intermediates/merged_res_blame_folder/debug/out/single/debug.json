@@ -8,6 +8,10 @@
         "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_muestra_carro.xml.flat",
+        "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\layout\\activity_muestra_carro.xml"
+    },
+    {
         "merged": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
@@ -24,6 +28,10 @@
         "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_kia_motors_blanco.xml.flat",
+        "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\drawable\\ic_kia_motors_blanco.xml"
+    },
+    {
         "merged": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -34,6 +42,10 @@
     {
         "merged": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_kia_motors_1_01_copia_01.xml.flat",
+        "source": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\src\\main\\res\\drawable\\ic_kia_motors_1_01_copia_01.xml"
     },
     {
         "merged": "D:\\SOFTWARE\\3-SEMESTRE\\Moviles-II\\moviles\\Android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",

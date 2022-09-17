@@ -31,14 +31,14 @@ public class VehiculoActivity extends AppCompatActivity {
 
         //ocultar titulo que esta en morado.
 
-        getSupportActionBar().hide();
+        //getSupportActionBar().hide();
 
         //este es para oculatar el titulo morado
 
         etplaca=findViewById(R.id.etplaca);
-        etmarca=findViewById(R.id.etmarca);
-        etmodelo=findViewById(R.id.etmodelo);
-        etvalor=findViewById(R.id.etvalor);
+        etmarca=findViewById(R.id.ettime);
+        etmodelo=findViewById(R.id.tvmodelo);
+        etvalor=findViewById(R.id.tvvalor);
         etcbactivo=findViewById(R.id.etcbactivo);
         sw=0;
     }

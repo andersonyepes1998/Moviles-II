@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ventas_Vehiculos">
         <activity
+            android:name=".muestraCarro"
+            android:exported="false" />
+        <activity
             android:name=".FacturaActivity"
             android:exported="false" />
         <activity

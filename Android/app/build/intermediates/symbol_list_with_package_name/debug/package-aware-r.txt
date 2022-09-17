@@ -1743,6 +1743,7 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color primary_color_gris
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1761,6 +1762,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color segundary_color_red
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -2461,6 +2463,8 @@ drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_kia_motors_1
 drawable ic_kia_motors_1_01
+drawable ic_kia_motors_1_01_copia_01
+drawable ic_kia_motors_blanco
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_m3_chip_check
@@ -2614,12 +2618,14 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btfactura
+id btnBuscarCarro
 id btnanular
 id btncancelar
 id btnconsultar
 id btnguardar
 id btnregresar
 id btvehiculo
+id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2709,10 +2715,8 @@ id enterAlways
 id enterAlwaysCollapsed
 id etcbactivo
 id etcodigo
-id etmarca
-id etmodelo
 id etplaca
-id etvalor
+id ettime
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -2755,6 +2759,8 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id imageView2
+id imageView3
 id imageView5
 id immediateStop
 id included
@@ -2998,6 +3004,9 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvmarca
+id tvmodelo
+id tvvalor
 id unchecked
 id uniform
 id unlabeled
@@ -3114,6 +3123,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_factura
 layout activity_main
+layout activity_muestra_carro
 layout activity_vehiculo
 layout custom_dialog
 layout design_bottom_navigation_item

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Anderson\.gradle\caches\transforms-3\b44f48e07fa8182b188d3e9c08c58be0\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Anderson\.gradle\caches\transforms-3\d597f256c6a6ec9f28f88ae9c2e62bdd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Anderson\.gradle\caches\transforms-3\95916f78ba1ae6e33db10f22c37aeb43\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
@@ -43,25 +43,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anderson\.gradle
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anderson\.gradle\caches\transforms-3\9f24011717b021bac9ee09874fd0df37\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Anderson\.gradle\caches\transforms-3\6abfac59d263b6c8870828beb848f440\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Anderson\.gradle\caches\transforms-3\a9e9e56cd500525808c19a605e367b6a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:5:5-30:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Anderson\.gradle\caches\transforms-3\b44f48e07fa8182b188d3e9c08c58be0\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Anderson\.gradle\caches\transforms-3\b44f48e07fa8182b188d3e9c08c58be0\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Anderson\.gradle\caches\transforms-3\d597f256c6a6ec9f28f88ae9c2e62bdd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -90,34 +90,40 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Anderson\.gradle\c
 		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:11:9-54
-activity#com.example.ventas_vehiculos.FacturaActivity
+activity#com.example.ventas_vehiculos.muestraCarro
 ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
 		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:13:13-44
-activity#com.example.ventas_vehiculos.VehiculoActivity
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.ventas_vehiculos.FacturaActivity
 ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:16:13-45
-activity#com.example.ventas_vehiculos.MainActivity
-ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:18:9-26:20
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:16:13-44
+activity#com.example.ventas_vehiculos.VehiculoActivity
+ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:19:13-45
+activity#com.example.ventas_vehiculos.MainActivity
+ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml:27:27-74
 uses-sdk
 INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\SOFTWARE\3-SEMESTRE\Moviles-II\moviles\Android\app\src\main\AndroidManifest.xml

@@ -20,6 +20,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Ventas_Vehiculos" >
         <activity
+            android:name="com.example.ventas_vehiculos.muestraCarro"
+            android:exported="false" />
+        <activity
             android:name="com.example.ventas_vehiculos.FacturaActivity"
             android:exported="false" />
         <activity
